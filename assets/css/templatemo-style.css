@@ -572,10 +572,16 @@ figure.snip1321 h4 {
   color: #232323;
 }
 figure.snip1321 span {
-    font-size: 14px;
+    font-size: 11px;
     font-style: italic;
     display: block;
     color: #7a7a7a;
+}
+figure.snip1321 ul  {
+    font-size: 15px;
+    color: #7a7a7a;
+    text-align: left;
+    margin-left: 5px;
 }
 figure.snip1321 i {
   position: relative!important;
